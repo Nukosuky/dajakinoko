@@ -1,0 +1,2 @@
+# dajakinoko
+Kinoko joke.
